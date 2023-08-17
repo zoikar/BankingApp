@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-20">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Zoi/eclipse-workspace/mysql-connector-j-8.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoi/OneDrive/Desktop/Projects/TrackingApp/src/postgresql-42.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoi/eclipse-workspace/postgresql-42.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Zoi/eclipse-workspace/checker-qual-3.31.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
