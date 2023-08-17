@@ -42,4 +42,3 @@ CREATE TABLE CardInfo(
 
 SELECT * FROM AccountInfo;
 SELECT * FROM CardInfo;
-INSERT INTO AccountInfo(accnum, fname, lname, mobile, id, ssn, address, email, password) VALUES (2, 'Kar', 'Zoi', '6977543699', '234', '345678901', 'Somewhere', 'zoekar26@gmail.com', 'zoekar2222!');
